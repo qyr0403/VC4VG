@@ -1,7 +1,7 @@
 # VC4VG: Optimizing Video Captions for Text-to-Video Generation
 
 <div style='display:flex; gap: 0.25rem; '>
-  <a href='https://arxiv.org/pdf/your_paper_id.pdf'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
+  <a href='https://arxiv.org/pdf/2510.24134'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
   <a href='https://github.com/alimama-creative/VC4VG'><img src='https://img.shields.io/badge/Project-Page-green'></a>
   <!-- <a href='https://huggingface.co/your_hf_id'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-VC4VG-blue'></a> -->
 </div>
@@ -10,9 +10,11 @@
 <a target="_blank"><img src="https://raw.githubusercontent.com/qyr0403/VC4VG/main/assets/framework.png" alt="VC4VG Framework" style="width: 80%; min-width: 200px; display: block; margin: auto;"></a>
 </p>
 
+**Hints: We will release our resources in the following repositories.**
+
 > **VC4VG: Optimizing Video Captions for Text-to-Video Generation** <br>
 > Yang Du*, Zhuoran Lin*, Kaiqiang Song*, Biao Wang, Zhicheng Zheng, Tiezheng Ge, Bo Zheng, Qin Jin <br>
-[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/alimama-creative/VC4VG) [![github](https://img.shields.io/github/stars/alimama-creative/VC4VG.svg?style=social)](https://github.com/alimama-creative/VC4VG)[![arXiv](https://img.shields.io/badge/Arxiv-your_paper_id-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/your_paper_id) <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/alimama-creative/VC4VG) [![github](https://img.shields.io/github/stars/alimama-creative/VC4VG.svg?style=social)](https://github.com/alimama-creative/VC4VG)[![arXiv](https://img.shields.io/badge/Arxiv-2510.24134-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2510.24134) <br>
 
 ## Overview
 
@@ -41,8 +43,9 @@ If you find our work useful, please consider citing our paper:
       title={VC4VG: Optimizing Video Captions for Text-to-Video Generation}, 
       author={Yang Du and Zhuoran Lin and Kaiqiang Song and Biao Wang and Zhicheng Zheng and Tiezheng Ge and Bo Zheng and Qin Jin},
       year={2025},
-      eprint={your_paper_id},
+      eprint={2510.24134},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.24134}
 }
 ```
